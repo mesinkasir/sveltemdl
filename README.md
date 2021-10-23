@@ -1,32 +1,59 @@
-# Bulma Svelte website themes template
+# Mobile svelte template themes
 
-[Demo Svelte MDL →](https://whatsappshop.vercel.app/)
+[tes demo →]()
 
-documentation & tutorial : [https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html](https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html)
+[tes demo premium →](https://andros.vercel.app/)
+
+Documentation tutorial installation :
+[https://www.hockeycomputindo.com/2021/10/mobile-svelte-app-source-code-free.html](https://www.hockeycomputindo.com/2021/10/mobile-svelte-app-source-code-free.html)
+
+[Video Demo →](https://youtu.be/sMENkpTFTFU)
+
+--------------------------------------------------------------------
+
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-9Gutlp2szB0/YXQFoOL-dYI/AAAAAAAARdc/wcZyUt9ZBX82-oeZ03Kn7scjAlMs-oR2wCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25281%2529.png)
+
+Home page
+
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-EWRKRx2iNCs/YXQFrs20rLI/AAAAAAAARd4/x8GN3E0vOHk-GcEM7ABdlupyGgl0ykf8gCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25289%2529.png)
+
+Drawer slider navbar
+
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-IE9dnoPCN2E/YXQFrXVJOVI/AAAAAAAARd0/BEXkosGs_CU_uqHh67WHy73mbdxahv4egCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25288%2529.png)
+
+Example page
 
 
-![new svelte mdl website template themes](https://1.bp.blogspot.com/-CD6tI-9RqDE/YXDU71anyWI/AAAAAAAARaM/ppGnt_Ob0tce3gR3INp6VVLe_Q9UGG_ewCLcBGAsYHQ/s2048/svelte%2Bbuma%2Btemplate%2B%25281%2529.png)
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-yxz7yUsQxrM/YXQFpXwi-6I/AAAAAAAARdo/Aj5VKB7KSEw-cTgOe4fq39odUIDajrrSgCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25285%2529.png)
 
-Home page 
+Another page
+
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-oCvKAqpUlt0/YXQFpPg24II/AAAAAAAARdk/BZtkKbIcfqYZFU1-_FRZH51zbwuj-z5PgCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25284%2529.png)
+
+Other Page
 
 
-![new svelte mdl website template themes](https://1.bp.blogspot.com/-KUyZCbF18xs/YXDU7TIX1bI/AAAAAAAARaI/sEM3-l-VS1EWUvXQ9ZGqzVy-jOK2ydWwQCLcBGAsYHQ/s671/svelte%2Bbuma%2Btemplate%2B%25282%2529.png)
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-waah_MJbQM8/YXQFoK-pISI/AAAAAAAARdg/9wxluOJVh9QtwQVXvXmamVh-lUCgijOWQCLcBGAsYHQ/s682/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25282%2529.png)
 
-Mobile view
+Mobile version demo
 
-![new svelte mdl website template themes](https://1.bp.blogspot.com/-Ree78uiBzKw/YXDU8AeW77I/AAAAAAAARaQ/V098lw1XGyEeNVIdmO2WjAdqrs9u5um8QCLcBGAsYHQ/s1450/svelte%2Bbuma%2Btemplate%2B%25283%2529.png)
 
-Example page with image
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-C4_NjW-7IVg/YXQFoMbkcKI/AAAAAAAARdY/7GumnlLbdtgcN-WSzQk_ZjuCkFMUppBfACLcBGAsYHQ/s682/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25283%2529.png)
 
-![new svelte mdl website template themes](https://1.bp.blogspot.com/-mxP4Fec8_w4/YXDU-W1q0xI/AAAAAAAARaY/kNIrOfDns5M2FaErmDkeV11ybtOj11msgCLcBGAsYHQ/s1801/svelte%2Bbuma%2Btemplate%2B%25285%2529.png)
+MObile slider bar
 
-Other page with video
 
------------------------------------------------
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-rn4zOTjLXeg/YXQKC_0bVPI/AAAAAAAARe4/WknuybIaG_AATYBUf_rqAuJ_GVSoX_KxwCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25287%2529.png)
 
-### Buy me a coffee :hearts: ✌🏻
+Start pages
 
-:coffee: :coffee: :coffee: 
+
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-ajfldryy2-c/YXQKCS1SRAI/AAAAAAAARe0/3DoRLxUe53U5tFvRm2dh0XgIqBdSXteaACLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25286%2529.png)
+
+Gallery Page display
+
+--------------------------------------------------------------------
+### Buy me a coffee ☕️ ❤️  ✌🏻
 
 with moneygram or western union
 
@@ -34,7 +61,3 @@ with moneygram or western union
 + ACCOUNT NO : 0181884109
 + ACCOUNT NAME : SUCI CHANIFAH
 + IBAN/SWIFT CODE : CENAIDJA
-
-----------------------------------------------
-
-documentation & tutorial : [https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html](https://www.hockeycomputindo.com/2021/10/svelte-bulma-website-template-themes.html)
