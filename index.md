@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Mobile svelte template themes
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/sveltemdl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[tes demo →]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[tes demo premium →](https://andros.vercel.app/)
 
-### Markdown
+Documentation tutorial installation :
+[https://www.hockeycomputindo.com/2021/10/mobile-svelte-app-source-code-free.html](https://www.hockeycomputindo.com/2021/10/mobile-svelte-app-source-code-free.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Video Demo →](https://youtu.be/sMENkpTFTFU)
 
-```markdown
-Syntax highlighted code block
+--------------------------------------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-9Gutlp2szB0/YXQFoOL-dYI/AAAAAAAARdc/wcZyUt9ZBX82-oeZ03Kn7scjAlMs-oR2wCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25281%2529.png)
 
-- Bulleted
-- List
+Home page
 
-1. Numbered
-2. List
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-EWRKRx2iNCs/YXQFrs20rLI/AAAAAAAARd4/x8GN3E0vOHk-GcEM7ABdlupyGgl0ykf8gCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25289%2529.png)
 
-**Bold** and _Italic_ and `Code` text
+Drawer slider navbar
 
-[Link](url) and ![Image](src)
-```
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-IE9dnoPCN2E/YXQFrXVJOVI/AAAAAAAARd0/BEXkosGs_CU_uqHh67WHy73mbdxahv4egCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25288%2529.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Example page
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/sveltemdl/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-yxz7yUsQxrM/YXQFpXwi-6I/AAAAAAAARdo/Aj5VKB7KSEw-cTgOe4fq39odUIDajrrSgCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25285%2529.png)
 
-### Support or Contact
+Another page
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-oCvKAqpUlt0/YXQFpPg24II/AAAAAAAARdk/BZtkKbIcfqYZFU1-_FRZH51zbwuj-z5PgCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25284%2529.png)
+
+Other Page
+
+
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-waah_MJbQM8/YXQFoK-pISI/AAAAAAAARdg/9wxluOJVh9QtwQVXvXmamVh-lUCgijOWQCLcBGAsYHQ/s682/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25282%2529.png)
+
+Mobile version demo
+
+
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-C4_NjW-7IVg/YXQFoMbkcKI/AAAAAAAARdY/7GumnlLbdtgcN-WSzQk_ZjuCkFMUppBfACLcBGAsYHQ/s682/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25283%2529.png)
+
+MObile slider bar
+
+
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-rn4zOTjLXeg/YXQKC_0bVPI/AAAAAAAARe4/WknuybIaG_AATYBUf_rqAuJ_GVSoX_KxwCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25287%2529.png)
+
+Start pages
+
+
+![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-ajfldryy2-c/YXQKCS1SRAI/AAAAAAAARe0/3DoRLxUe53U5tFvRm2dh0XgIqBdSXteaACLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25286%2529.png)
+
+Gallery Page display
+
+--------------------------------------------------------------------
+### Buy me a coffee ☕️ ❤️  ✌🏻
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
