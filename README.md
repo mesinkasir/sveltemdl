@@ -1,6 +1,6 @@
 # Mobile svelte template themes
 
-[tes demo →](https://www.youtube.com/watch?v=sMENkpTFTFU)
+[tes demo →](https://andros.pages.dev/)
 
 [tes demo premium →](https://andros.vercel.app/)
 
