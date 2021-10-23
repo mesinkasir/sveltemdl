@@ -39,7 +39,7 @@
 			<a class="mdl-navigation__link btn bg-success text-white" href="https://play.google.com/store/apps/details?id=com.axcora.androidapp">
 				<span class="material-icons">play_arrow</span> <strong>PlayStore</strong>
 			</a>
-			<a class="mdl-navigation__link btn btn-dark" href="https://github.com/mesinkasir/sveltemdl">
+			<a class="mdl-navigation__link btn btn-dark" href="https://github.com/mesinkasir/sveltemdl/">
 			  <strong>Github →</strong>
 			</a>
     </nav>
