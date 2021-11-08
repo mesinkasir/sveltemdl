@@ -36,9 +36,6 @@
 			<a class="mdl-navigation__link" href="/" on:click|preventDefault={() => (menu = 5)}><span class="material-icons">monetization_on</span> Pricing</a>
 			<a class="mdl-navigation__link" href="/" on:click|preventDefault={() => (menu = 6)}><span class="material-icons">support_agent</span> Contact</a>
 	
-			<a class="mdl-navigation__link btn bg-success text-white" href="https://play.google.com/store/apps/details?id=com.axcora.androidapp">
-				<span class="material-icons">play_arrow</span> <strong>PlayStore</strong>
-			</a>
 			<a class="mdl-navigation__link btn btn-dark" href="https://github.com/mesinkasir/sveltemdl/">
 			  <strong>Github →</strong>
 			</a>
