@@ -9,6 +9,8 @@ Documentation tutorial installation :
 
 [Video Demo →](https://youtu.be/sMENkpTFTFU)
 
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+
 --------------------------------------------------------------------
 
 ![free download source code themes template mobile svelte app](https://1.bp.blogspot.com/-9Gutlp2szB0/YXQFoOL-dYI/AAAAAAAARdc/wcZyUt9ZBX82-oeZ03Kn7scjAlMs-oR2wCLcBGAsYHQ/s1366/svelte%2Bsource%2Bcode%2Bweb%2Bapp%2B%25281%2529.png)
@@ -55,9 +57,4 @@ Gallery Page display
 --------------------------------------------------------------------
 ### Buy me a coffee ☕️ ❤️  ✌🏻
 
-with moneygram or western union
-
-+ BANK CENTRAL ASIA
-+ ACCOUNT NO : 0181884109
-+ ACCOUNT NAME : SUCI CHANIFAH
-+ IBAN/SWIFT CODE : CENAIDJA
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
